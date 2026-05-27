@@ -50,7 +50,7 @@ Here are some of the desktop applications I've engineered from scratch:
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezwanahmedtorabee-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&&refresh=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezwanahmedtorabee-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&refresh=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanahmedtorabee-source&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
