@@ -1,69 +1,52 @@
-<h1 align="center">Hi there, I'm Rezwan Ahmed 👋</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Status-Learning-green?style=flat" alt="Status">
-</p>
+# Hi there, I'm Rezwan Ahmed
 
-<p align="center">
-  <strong>B.Sc. Engineering in Computer Science & Engineering Student</strong><br>
-  Passionate software enthusiast dedicated to building desktop applications, exploring algorithms, and continuous learning.
-</p>
+**B.Sc. Engineering in Computer Science & Engineering**  
+Passionate about learning 
 
 ---
 
-### 🎯 About Me
+### 🔥 About Me
 
-* 🎓 **Education:** Currently pursuing my **B.Sc. Engg in CSE** at Bangladesh Army University of Science & Technology (BAUST).
-* 💻 **Core Focus:** Deep diving into **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, and Desktop GUI development.
-* 🚀 **Current Work:** Crafting clean applications for my Software Development Projects (SDP) using Java & JavaFX.
-* 🤝 **Looking Forward:** Eager to collaborate on open-source projects and expand my tech horizon into full-stack domains.
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaFX-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+- 🎓 Currently pursuing **B.Sc. Engg in CSE**
+- 💻 Learning **OOP, DSA, Java, JavaFX, Git & GitHub**
+- 🚀 Working on Software Development Projects (SDP)
+- 🌱 Always trying to learn new things
+- 🤝 Open to Open Source Contributions
 
 ---
 
-### 🚀 Featured Projects
+### 🛠 Technologies & Tools
 
-Here are some of the desktop applications I've engineered from scratch:
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 📅 **Study Planner App** | A complete helper application designed for students to track schedules and manage academic routines. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
-| 🧮 **Calculator App** | A fully functional, clean UI desktop calculator supporting foundational arithmetic operations. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
-| ✅ **To Do List App** | A productive task management tool built as a core Software Development Project. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1) |
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezwanahmedtorabee-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanahmedtorabee-source&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwanahmedtorabee-source&theme=tokyonight&hide_border=true" width="97%" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007ACC?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📫 Let's Connect!
+### 📊 GitHub Stats
 
-* 💼 **LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
-* 📧 **Email:** Feel free to reach out via my GitHub profile or LinkedIn for any standard academic or software project queries!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezwanahmedtorabee-source&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">⭐️ <i>If you like my repositories, feel free to leave a star!</i> ⭐️</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanahmedtorabee-source&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezwanahmedtorabee-source&theme=tokyonight&hide_border=true)
+
+---
+
+### 🚀 My Projects
+
+- **[Study Planner App](https://github.com/rezwanahmedtorabee-source/Study-Planner-App)** — Java + JavaFX
+- **[Calculator App](https://github.com/rezwanahmedtorabee-source/Calculator-App)** — Java + JavaFX
+- **[To Do List](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1)** — Java + JavaFX
+  
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
+  
