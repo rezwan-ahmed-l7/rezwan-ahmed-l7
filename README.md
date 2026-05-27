@@ -11,16 +11,16 @@
 
 ---
 
-### 🎯 About Me
+### About Me
 
-* 🎓 **Education:** Currently pursuing my **B.Sc. Engg in CSE**
-* 💻 **Learning:** **OOP, DSA, SDP, Git & GitHub**.
-* 🚀 **Working on:** Software Development Projects (SDP) using Java & JavaFX.
-* 🤝 **Looking Forward:** Contribute to Open-source projects and expand my knowledge.
+**Education:** Currently pursuing my **B.Sc. Engg in CSE**
+**Learning:** **OOP, DSA, SDP, Git & GitHub**.
+**Working on:** Software Development Projects (SDP) using Java & JavaFX.
+**Looking Forward:** Contribute to Open-source projects and expand my knowledge.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Language & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -35,19 +35,19 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Here are some of the desktop applications I've engineered from scratch:
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 📅 **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
-| 🧮 **Calculator App** | A fully functional desktop calculator app. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
-| ✅ **To Do List App** | A productive task management tool. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1) |
+| **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
+| **Calculator App** | A fully functional desktop calculator app. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
+| **To Do List App** | A productive task management tool. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1) |
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezwanahmedtorabee-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&refresh=true" width="48%" />
@@ -60,8 +60,8 @@ Here are some of the desktop applications I've engineered from scratch:
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
-* 💼 **LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
+**LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
 
 <p align="center">⭐️ <i>If you like my repositories, feel free to leave a star! Thank you</i> ⭐️</p>
