@@ -1,4 +1,4 @@
-# Hi there, I'm Rezwan Ahmed 👋
+# Hi there, I'm Rezwan Ahmed
 
 **B.Sc. Engineering in Computer Science & Engineering**  
 Passionate about learning 
@@ -52,4 +52,4 @@ Passionate about learning
 
 ---
 
-**Love Keep Learning & Building**
+**Love to Keep Learning & Building**
