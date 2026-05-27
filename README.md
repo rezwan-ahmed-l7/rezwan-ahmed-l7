@@ -64,4 +64,4 @@ Here are some of the desktop applications I've engineered from scratch:
 
 **LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
 
-<p align="center">⭐️ <i>If you like my repositories, feel free to leave a star! Thank you</i> ⭐️</p>
+<p align="center">⭐️ If you like my repositories, feel free to leave a star! Thank you ⭐️</p>
