@@ -1,27 +1,27 @@
 # Hi there, I'm Rezwan Ahmed 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rezwanahmedtorabee-source&color=brightgreen)
-
 **B.Sc. Engineering in Computer Science & Engineering**  
-Passionate Java & JavaFX Developer | Problem Solver | Open Source Enthusiast
+Passionate about learning 
 
 ---
 
 ### 🔥 About Me
 
 - 🎓 Currently pursuing **B.Sc. Engg in CSE**
-- 💻 Focused on **Java, JavaFX, Object Oriented Programming & Software Development**
-- 🚀 Building real-world projects to strengthen my development skills
-- 🌱 Always learning new technologies and best practices
-- 🤝 Looking forward to contributing to **Open Source Projects**
+- 💻 Learning and building projects with **Java, JavaFX & OOP**
+- 🚀 Working on Software Development Projects (SDP)
+- 🌱 Always learning new things
+- 🤝 Open to Open Source Contributions
 
 ---
 
 ### 🛠 Technologies & Tools
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007ACC?style=for-the-badge&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,41 +40,16 @@ Passionate Java & JavaFX Developer | Problem Solver | Open Source Enthusiast
 
 ### 🚀 My Projects
 
-- **[Calculator App](https://github.com/rezwanahmedtorabee-source/Calculator-App)** - Java + JavaFX
-- **[Todo List App](link)** *(Upcoming)*
-- **[Student Dashboard](link)** *(Upcoming)*
-
-**More projects coming soon...**
-
+- **[Study Planner App](https://github.com/rezwanahmedtorabee-source/Study-Planner-App)** — Java + JavaFX
+- **[Calculator App](https://github.com/rezwanahmedtorabee-source/Calculator-App)** — Java + JavaFX
+- **[To Do List](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1)** — Java + JavaFX
+  
 ---
 
 ### 📫 Connect With Me
 
-- GitHub: [@rezwanahmedtorabee-source](https://github.com/rezwanahmedtorabee-source)
-- Email: `your.email@example.com` *(optional)*
+- LinkedIn: [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
 
 ---
 
-**Made with ❤️ | Always learning & building**
-
-
-## Hi, I'm Rezwan. I'm pursuing B.Sc Engg in CSE
-
-- 🎓 I’m currently learning JavaFX, OOP, DSA, Software Development, Git & GitHub ...
-- 💻 I’m currently working on Software Development Projects ...
-- 🔎 I’m looking to contribute to Open Source Projects ...
-
-<!--
-**rezwanahmedtorabee-source/rezwanahmedtorabee-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Love Keep Learning & Building**
