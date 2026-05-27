@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>B.Sc. Engineering in Computer Science & Engineering Student</strong><br>
-  Passionate about learning software development 
+  Passionate about learning Software Development 
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 * 🎓 **Education:** Currently pursuing my **B.Sc. Engg in CSE**
 * 💻 **Learning:** **OOP, DSA, SDP, Git & GitHub**.
-* 🚀 **Current Work:** Software Development Projects (SDP) using Java & JavaFX.
+* 🚀 **Working on:** Software Development Projects (SDP) using Java & JavaFX.
 * 🤝 **Looking Forward:** Contribute to Open-source projects and expand my knowledge.
 
 ---
@@ -42,9 +42,9 @@ Here are some of the desktop applications I've engineered from scratch:
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 📅 **Study Planner App** | A complete helper application designed for students to track schedules and manage academic routines. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
-| 🧮 **Calculator App** | A fully functional, clean UI desktop calculator supporting foundational arithmetic operations. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
-| ✅ **To Do List App** | A productive task management tool built as a core Software Development Project. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1) |
+| 📅 **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
+| 🧮 **Calculator App** | A fully functional desktop calculator app. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
+| ✅ **To Do List App** | A productive task management tool. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1) |
 
 ---
 
