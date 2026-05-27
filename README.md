@@ -1,129 +1,69 @@
-<div align="center">
-
-# Hi, I'm Rezwan Ahmed 👋
-### Computer Science & Engineering Student | Software Developer | Problem Solver
-
-<p>
-Passionate about building clean software, learning deeply, and turning ideas into real-world applications.
+<h1 align="center">Hi there, I'm Rezwan Ahmed 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=flat" alt="Status">
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CSE+Student;Java+%26+JavaFX+Developer;DSA+Learner;Open+Source+Enthusiast;Always+Learning+Something+New" />
-
-</div>
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Rezwan Ahmed
-Education: B.Sc. Engineering in Computer Science & Engineering
-Focus Areas:
-  - Object Oriented Programming (OOP)
-  - Data Structures & Algorithms (DSA)
-  - Software Development
-  - Java & JavaFX
-Currently Learning:
-  - Advanced Java
-  - Git & GitHub
-  - Clean Code Practices
-Goals:
-  - Become a skilled Software Engineer
-  - Build impactful real-world applications
-  - Contribute to Open Source
-```
+<p align="center">
+  <strong>B.Sc. Engineering in Computer Science & Engineering Student</strong><br>
+  Passionate software enthusiast dedicated to building desktop applications, exploring algorithms, and continuous learning.
+</p>
 
 ---
 
-# 🛠 Tech Stack
+### 🎯 About Me
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Tools
-![JavaFX](https://img.shields.io/badge/JavaFX-007ACC?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* 🎓 **Education:** Currently pursuing my **B.Sc. Engg in CSE** at Bangladesh Army University of Science & Technology (BAUST).
+* 💻 **Core Focus:** Deep diving into **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, and Desktop GUI development.
+* 🚀 **Current Work:** Crafting clean applications for my Software Development Projects (SDP) using Java & JavaFX.
+* 🤝 **Looking Forward:** Eager to collaborate on open-source projects and expand my tech horizon into full-stack domains.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rezwanahmedtorabee-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanahmedtorabee-source&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rezwanahmedtorabee-source&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 📚 Study Planner App
-> A productivity-focused desktop application for managing study schedules and tasks.
-
-**Tech:** `Java` `JavaFX`
-
-🔗 Repository:  
-https://github.com/rezwanahmedtorabee-source/Study-Planner-App
-
----
-
-### 🧮 Calculator App
-> A clean and functional calculator application built with JavaFX.
-
-**Tech:** `Java` `JavaFX`
-
-🔗 Repository:  
-https://github.com/rezwanahmedtorabee-source/Calculator-App
-
----
-
-### ✅ To Do List Application
-> Task management application developed as a Software Development Project.
-
-**Tech:** `Java` `JavaFX`
-
-🔗 Repository:  
-https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1
-
----
-
-# 🌱 Currently Working On
-
-- Improving problem-solving skills through DSA
-- Building Java desktop applications
-- Learning software architecture & clean coding
-- Exploring open source contribution workflows
-
----
-
-# 🤝 Connect With Me
+### 🛠️ Technologies & Tools
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rezwanahmedtorabee-source" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaFX-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-<div align="center">
+### 🚀 Featured Projects
 
-### ⚡ “Consistency beats motivation.”
+Here are some of the desktop applications I've engineered from scratch:
 
-</div>
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 📅 **Study Planner App** | A complete helper application designed for students to track schedules and manage academic routines. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
+| 🧮 **Calculator App** | A fully functional, clean UI desktop calculator supporting foundational arithmetic operations. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
+| ✅ **To Do List App** | A productive task management tool built as a core Software Development Project. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1) |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezwanahmedtorabee-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanahmedtorabee-source&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezwanahmedtorabee-source&theme=tokyonight&hide_border=true" width="97%" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+* 💼 **LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
+* 📧 **Email:** Feel free to reach out via my GitHub profile or LinkedIn for any standard academic or software project queries!
+
+<p align="center">⭐️ <i>If you like my repositories, feel free to leave a star!</i> ⭐️</p>
