@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rezwan Ahmed </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rezwan-ahmed-l7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Status-Learning-green?style=flat" alt="Status">
 </p>
 
@@ -46,6 +46,6 @@ Here are some of the desktop applications I've engineered from scratch:
 
 ### Let's Connect !
 
-**LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
+**LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-l7/)
 
 <p align="center"> If you like my repositories, feel free to leave a ★ ! Thank you </p>
