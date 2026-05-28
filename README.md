@@ -46,6 +46,7 @@ Here are some projects that I have recently worked on:
 
 ### Let's Connect !
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
 **LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-l7/)
 
 <p align="center"> If you like my repositories, feel free to leave a ★ ! Thank you </p>
