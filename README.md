@@ -23,7 +23,7 @@
 ### Language & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,vscode,git,github,maven" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,git,github,vscode" />
 </p>
 
 <p align="center">
