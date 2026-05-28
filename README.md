@@ -16,7 +16,7 @@
 - **Education:** Currently pursuing my **B.Sc. Engg in CSE**
 - **Learning:** **OOP, DSA, SDP, Git & GitHub**.
 - **Working on:** Software Development Projects (SDP) using Java & JavaFX.
-- **Looking Forward:** Contribute to Open-source projects and expand my knowledge.
+- **Looking Forward:** To explore Open-source projects and expand my knowledge.
 
 ---
 
