@@ -44,8 +44,8 @@ Here are some of the desktop applications I've engineered from scratch:
 
 ---
 
-### Let's Connect!
+### Let's Connect !
 
 **LinkedIn:** [Rezwan Ahmed Torabee](https://www.linkedin.com/in/rezwan-ahmed-torabee-29a278411/)
 
-<p align="center">⭐️ If you like my repositories, feel free to leave a star! Thank you ⭐️</p>
+<p align="center"> If you like my repositories, feel free to leave a ★ ! Thank you </p>
