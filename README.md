@@ -34,7 +34,7 @@
 
 ### Featured Projects
 
-Here are some of the desktop applications I've engineered from scratch:
+Here are some projects that I have recently worked on:
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
