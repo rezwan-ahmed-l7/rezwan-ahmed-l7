@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Rezwan Ahmed </h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-green?style=flat" alt="Status">
-</p>
 
 <p align="center">
-  <strong>B.Sc. Engineering in Computer Science & Engineering Student</strong><br>
+  <strong>B.Sc. Engineering in Computer Science & Engineering student</strong><br>
   Passionate about learning Software Development 
 </p>
 
