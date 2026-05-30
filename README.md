@@ -12,7 +12,7 @@
 - **Education:** Currently pursuing my **B.Sc. Engg in CSE**.
 - **Learning:** **OOP, DSA, SDP, Git & GitHub**.
 - **Working on:** Software Development Projects (SDP).
-- **Looking Forward:** To explore Open-source projects and learn software development, to expand my knowledge.
+- **Looking Forward:** To explore Open-source projects and learn Software Development, to expand my knowledge.
 
 ---
 
@@ -44,4 +44,4 @@ Here are some projects that I have recently worked on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
 
-<p align="center"> If you like my repositories, feel free to leave a ★ ! Thank you </p>
+<p align="center"> If you like my repositories, feel free to leave a ☆ ! Thank you </p>
