@@ -1,19 +1,18 @@
 <h1 align="center">Hi, I'm Rezwan Ahmed </h1>
 
 <p align="center">
-  <strong>B.Sc. Engineering in Computer Science & Engineering student</strong><br>
-  Passionate about learning Software Development 
+  <strong>A B.Sc. Engineering in Computer Science & Engineering student</strong><br>
+  From Dhaka, Bangladesh 
 </p>
 
 ---
 
 ### About Me
 
-- **Location:** Dhaka, Bangladesh.
 - **Education:** Currently pursuing my **B.Sc. Engg in CSE**.
 - **Learning:** **OOP, DSA, SDP, Git & GitHub**.
 - **Working on:** Software Development Projects (SDP).
-- **Looking Forward:** To explore Open-source projects and expand my knowledge.
+- **Looking Forward:** To explore Open-source projects and learn software development, to expand my knowledge.
 
 ---
 
