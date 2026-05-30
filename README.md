@@ -9,7 +9,8 @@
 
 ### About Me
 
-- **Education:** Currently pursuing my **B.Sc. Engg in CSE**
+- **Location:** Dhaka, Bangladesh.
+- **Education:** Currently pursuing my **B.Sc. Engg in CSE**.
 - **Learning:** **OOP, DSA, SDP, Git & GitHub**.
 - **Working on:** Software Development Projects (SDP).
 - **Looking Forward:** To explore Open-source projects and expand my knowledge.
