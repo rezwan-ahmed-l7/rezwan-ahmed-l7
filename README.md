@@ -5,7 +5,6 @@
   From Dhaka, Bangladesh 
 </p>
 
-
 ---
 
 ### About Me
@@ -26,6 +25,7 @@
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=javafx" height="48" />
 </p>
+
 ---
 
 ### Featured Projects
