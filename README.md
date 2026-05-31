@@ -47,6 +47,6 @@ Here are some projects that I have recently worked on:
 
 <p align="center">
   <strong>🌱 Documenting my learning journey while creating resources that may help fellow students.</strong><br>
-  If you like my repositories, feel free to leave a ☆ ! Thank you
+  If you like my repositories, feel free to leave a ⭐ ! Thank you
 </p>
 
