@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rezwan Ahmed </h1>
 
 <p align="center">
-  <strong>A B.Sc. Engineering in Computer Science & Engineering student</strong><br>
+  <strong>An aspirin B.Sc. Engineering in Computer Science & Engineering student</strong><br>
   From Dhaka, Bangladesh 
 </p>
 
@@ -47,5 +47,6 @@ Here are some projects that I have recently worked on:
 
 <p align="center">
   <strong>🌱 Documenting my learning journey while creating resources that may help fellow students.</strong><br>
+  If you like my repositories, feel free to leave a ☆ ! Thank you
 </p>
-<p align="center"> If you like my repositories, feel free to leave a ☆ ! Thank you </p>
+
