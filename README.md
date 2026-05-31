@@ -13,7 +13,7 @@
 - **Learning:** **OOP, DSA, SDP, Git & GitHub**.
 - **Working on:** Software Development Projects (SDP).
 - **Looking Forward:** Learning Software Development and expanding my knowledge.
-- **Hobbies:** Music, Photography, Gym, Drawing, Reading, Anime, Open World Games.
+- **Hobbies:** Music, Photography, Gym, Drawing, Reading, Anime & Open World Games.
 
 ---
 
