@@ -12,7 +12,13 @@
 - **Education:** Currently pursuing my **B.Sc. Engg in CSE**.
 - **Learning:** **OOP, DSA, SDP, Git & GitHub**.
 - **Working on:** Software Development Projects (SDP).
-- **Looking Forward:** To explore Open-source projects and learn Software Development, to expand my knowledge.
+- **Looking Forward:** Learning Software Development and expanding my knowledge.
+- **Hobbies:** Music, Photography, Gym, Drawing, Reading, Anime, Open World Games.
+
+<p align="center">
+  <strong>🌱 Documenting my learning journey while creating resources that may help fellow students.</strong><br>
+  From Dhaka, Bangladesh 
+</p>
 
 ---
 
