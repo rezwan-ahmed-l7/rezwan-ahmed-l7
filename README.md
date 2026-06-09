@@ -9,7 +9,7 @@
 
 ### About Me
 
-- **Education:** Currently pursuing my **B.Sc. Engg in CSE**.
+- **Education:** Currently pursuing my **B.Sc. Engineering in CSE**.
 - **Learning:** **OOP, DSA, SDP, Git & GitHub**.
 - **Working on:** Software Development Projects (SDP).
 - **Looking Forward:** Learning Software Development and expanding my knowledge.
@@ -20,7 +20,7 @@
 ### Language & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode" />
 </p>
 
 <p align="center">
