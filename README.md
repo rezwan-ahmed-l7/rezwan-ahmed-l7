@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rezwan Ahmed </h1>
+<h1 align="center"> Hi, I'm Rezwan Ahmed </h1>
 
 <p align="center">
   <strong>An aspirin B.Sc. Engineering in Computer Science & Engineering student</strong><br>
@@ -37,13 +37,13 @@ Here are some projects that I have recently worked on:
 | :--- | :--- | :--- | :--- |
 | **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
 | **Calculator App** | A fully functional desktop calculator app. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
-| **To Do List App** | A productive task management tool. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Software-Development-Project-1) |
+| **To Do List App** | A productive task management tool. | `Java` `JavaFX` | [View Repo](https://github.com/rezwan-ahmed-l7/To-Do-List-App) |
 
 ---
 
 ### Let's Connect !
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0A66C2)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
 
 <p align="center">
   <strong>🌱 Documenting my learning journey while creating resources that may help fellow students.</strong><br>
