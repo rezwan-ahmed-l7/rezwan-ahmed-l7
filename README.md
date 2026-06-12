@@ -10,7 +10,7 @@
 ### About Me
 
 - **Education:** Currently pursuing my **B.Sc. Engineering in CSE**.
-- **Learning:** **OOP, DSA, SDP, Git & GitHub**.
+- **Learning:** OOP, DSA, SDP, Git & GitHub.
 - **Working on:** Software Development Projects (SDP).
 - **Looking Forward:** Learning Software Development and expanding my knowledge.
 - **Hobbies:** Music, Photography, Gym, Drawing, Reading, Anime & Open World Games.
@@ -20,7 +20,7 @@
 ### Language & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -34,10 +34,10 @@
 Here are some projects that I have recently worked on:
 
 | Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
+| :---- | :---- | :---- | :---- |
 | **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
+| **Railway Gate System** | A smart railway gate management system. | `C++` `ESP32` | [View Repo](https://github.com/rezwan-ahmed-l7/Smart-Raiway-Gate-System) |
 | **Calculator App** | A fully functional desktop calculator app. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
-| **To Do List App** | A productive task management tool. | `Java` `JavaFX` | [View Repo](https://github.com/rezwan-ahmed-l7/To-Do-List-App) |
 
 ---
 
