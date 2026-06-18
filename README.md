@@ -15,10 +15,6 @@
 - **Looking Forward:** Learning Software Development and expanding my knowledge.
 - **Hobbies:** Music, Photography, Gym, Drawing, Reading, Anime & Open World Games.
 
-<p align="center">
-  <strong>🌱 Documenting my learning journey while creating resources that may help fellow students.</strong><br>
-</p>
-
 ---
 
 ### Language & Tools
@@ -50,6 +46,7 @@ Here are some projects that I have recently worked on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0A66C2)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
 
 <p align="center">
-  <strong> If you like my repositories, feel free to follow and leave a ⭐! Thank you </strong><br>
+  <strong> 🌱 Documenting my learning journey while creating resources that may help fellow students. </strong><br>
+  If you like my repositories, feel free to follow and leave a ⭐! Thank you 
 </p>
 
