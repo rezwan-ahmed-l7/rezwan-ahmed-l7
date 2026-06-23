@@ -41,28 +41,25 @@ Here are some projects that I have recently worked on:
 ---
 
 <div align="center">
- 
+
 <table>
   <tr>
     <td align="center">
-      <strong>Streak</strong><br><br>
       <img src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </td>
-    
+
     <td align="center">
-      <strong>Statistics</strong><br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
   
   <tr>
     <td width="50%" style="padding: 10px; vertical-align: top; text-align: center;">
-      <strong style="font-size: 14px;">🛠️ Tools</strong><br><br>
+      <strong style="font-size: 14px;">Tools</strong><br><br>
       <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode&perline=5" style="max-width: 100%; height: auto;" />
     </td>
-    
+
     <td align="center">
-      <strong>Languages</strong><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
