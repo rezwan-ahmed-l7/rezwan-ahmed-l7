@@ -17,18 +17,6 @@
 
 ---
 
-### Language & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javafx" height="48" />
-</p>
-
----
-
 ### Featured Projects
 
 Here are some projects that I have recently worked on:
