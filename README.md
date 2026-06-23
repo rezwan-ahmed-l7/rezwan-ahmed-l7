@@ -58,4 +58,6 @@ Here are some projects that I have recently worked on:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=dark&hide_border=true)
 
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/?username=rezwan-ahmed-l7&theme=tokyonight)
+
 </div>
