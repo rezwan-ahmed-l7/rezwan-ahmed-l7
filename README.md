@@ -42,23 +42,24 @@ Here are some projects that I have recently worked on:
 
 <div align="center">
  
-<table width="100%" style="border-collapse: collapse;">
+<table>
   <tr>
-    <td width="50%" style="padding: 10px; vertical-align: top; text-align: center;">
-      <img src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=transparent&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </td>
-    <td width="50%" style="padding: 10px; vertical-align: top; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
   
   <tr>
-    <td width="50%" style="padding: 10px; vertical-align: top; text-align: center;">
-      <strong style="font-size: 14px;">🛠️ Tools</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode&perline=5" style="max-width: 100%; height: auto;" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode&perline=5" />
     </td>
-    <td width="50%" style="padding: 10px; vertical-align: top; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto;" />
+
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -67,7 +68,7 @@ Here are some projects that I have recently worked on:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-light&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true" />
 </picture>
 
 
