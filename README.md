@@ -38,17 +38,19 @@ Here are some projects that I have recently worked on:
   If you like my repositories, feel free to follow and leave a ⭐! Thank you 
 </p>
 
+---
+
 <div align="center">
  
 <table>
   <tr>
     <td align="center">
       <strong>GitHub Streak</strong><br><br>
-      <img src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </td>
     <td align="center">
       <strong>GitHub Statistics</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
   
@@ -59,13 +61,17 @@ Here are some projects that I have recently worked on:
     </td>
     <td align="center">
       <strong>Top Languages</strong><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=tokyonight&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
 
-</div>
+
