@@ -39,31 +39,33 @@ Here are some projects that I have recently worked on:
 </p>
 
 <div align="center">
-  
+ 
 <table>
   <tr>
-    <td align="left">
+    <td align="center">
       <strong>GitHub Streak</strong><br><br>
       <img src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
-    <td align="right">
+    <td align="center">
       <strong>GitHub Statistics</strong><br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
+  
   <tr>
-    <td align="left">
+    <td align="center">
       <strong>Technologies & Tools</strong><br><br>
       <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode&perline=5" />
     </td>
-    <td align="right">
+    <td align="center">
       <strong>Top Languages</strong><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=tokyonight&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
 
 </div>
-
