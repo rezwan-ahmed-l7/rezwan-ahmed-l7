@@ -21,6 +21,17 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,git,github,vscode" />
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=dark&hide_border=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=dark&hide_border=true)
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=tokyonight&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
+
+![3D Contribution](https://github-profile-3d-contrib.vercel.app/?username=rezwan-ahmed-l7)
+
 </p>
 
 <p align="center">
@@ -49,15 +60,3 @@ Here are some projects that I have recently worked on:
   <strong> 🌱 Documenting my learning journey while creating resources that may help fellow students. </strong><br>
   If you like my repositories, feel free to follow and leave a ⭐! Thank you 
 </p>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=tokyonight&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
-
-</div>
