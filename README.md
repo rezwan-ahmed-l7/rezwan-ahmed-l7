@@ -54,9 +54,9 @@ Here are some projects that I have recently worked on:
   </tr>
   
   <tr>
-    <td width="50%" style="padding: 10px; vertical-align: top; text-align: center;">
-      <strong style="font-size: 14px;">Tools</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode&perline=5" style="max-width: 100%; height: auto;" />
+    <td align="center">
+      <strong>Tools</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode&perline=5" />
     </td>
 
     <td align="center">
