@@ -21,38 +21,11 @@
 
 Here are some projects that I have recently worked on:
 
-<div style="overflow-x: auto;">
-  <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
-    <thead>
-      <tr style="background-color: #f0f6fc; border-bottom: 2px solid #d0d7de;">
-        <th style="padding: 10px 12px; text-align: left; font-weight: 600; white-space: nowrap;">Project Name</th>
-        <th style="padding: 10px 12px; text-align: left; font-weight: 600; white-space: nowrap;">Description</th>
-        <th style="padding: 10px 12px; text-align: left; font-weight: 600; white-space: nowrap;">Tech Stack</th>
-        <th style="padding: 10px 12px; text-align: left; font-weight: 600; white-space: nowrap;">Link</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 10px 12px; font-weight: 500;"><strong>Study Planner App</strong></td>
-        <td style="padding: 10px 12px;">A department-based study planner app for students.</td>
-        <td style="padding: 10px 12px;"><code>Java</code> <code>JavaFX</code></td>
-        <td style="padding: 10px 12px;"><a href="https://github.com/rezwanahmedtorabee-source/Study-Planner-App" style="color: #58a6ff; text-decoration: none;">🔗 View Repo</a></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 10px 12px; font-weight: 500;"><strong>Railway Gate System</strong></td>
-        <td style="padding: 10px 12px;">A smart railway gate management system.</td>
-        <td style="padding: 10px 12px;"><code>C++</code> <code>ESP32</code></td>
-        <td style="padding: 10px 12px;"><a href="https://github.com/rezwan-ahmed-l7/Smart-Raiway-Gate-System" style="color: #58a6ff; text-decoration: none;">🔗 View Repo</a></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 10px 12px; font-weight: 500;"><strong>Calculator App</strong></td>
-        <td style="padding: 10px 12px;">A fully functional desktop calculator app.</td>
-        <td style="padding: 10px 12px;"><code>Java</code> <code>JavaFX</code></td>
-        <td style="padding: 10px 12px;"><a href="https://github.com/rezwanahmedtorabee-source/Calculator-App" style="color: #58a6ff; text-decoration: none;">🔗 View Repo</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Project Name | Description | Tech Stack | Link |
+| :---- | :---- | :---- | :---- |
+| **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
+| **Railway Gate System** | A smart railway gate management system. | `C++` `ESP32` | [View Repo](https://github.com/rezwan-ahmed-l7/Smart-Raiway-Gate-System) |
+| **Calculator App** | A fully functional desktop calculator app. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
 
 ---
 
