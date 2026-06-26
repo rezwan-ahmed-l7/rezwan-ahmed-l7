@@ -3,7 +3,7 @@
 <p align="center">
   <strong>An aspirin B.Sc. Engineering in Computer Science & Engineering student</strong><br>
   From Dhaka, Bangladesh 
-  <strong> 🌱 Documenting my learning journey while creating resources that may help fellow students. </strong><br>
+  🌱 Documenting my learning journey while creating resources that may help fellow students.
 </p>
 
 ---
