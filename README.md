@@ -5,6 +5,10 @@
   From Dhaka, Bangladesh 
 </p>
 
+<p align="center">
+  <strong> 🌱 Documenting my learning journey while creating resources that may help fellow students. </strong><br> 
+</p>
+
 ---
 
 ### About Me
@@ -34,8 +38,7 @@ Here are some projects that I have recently worked on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0A66C2)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
 
 <p align="center">
-  <strong> 🌱 Documenting my learning journey while creating resources that may help fellow students. </strong><br>
-  If you like my repositories, feel free to follow and leave a ⭐! Thank you 
+  <strong> If you like my repositories, feel free to follow and leave a ⭐! Thank you </strong><br>
 </p>
 
 ---
