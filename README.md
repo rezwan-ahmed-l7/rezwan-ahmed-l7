@@ -63,6 +63,7 @@ Here are some projects that I have recently worked on:
   </tr>
 </table>
 
+
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true" />
@@ -71,3 +72,19 @@ Here are some projects that I have recently worked on:
 </picture>
 
 
+<!-- ==================== CONTRIBUTION GRAPH (Video Style) ==================== -->
+
+<h2 align="center">📊 My GitHub Contributions</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<!-- Main Contribution Graph (Video er moto squares) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/00C853/rezwan-ahmed-l7" alt="rezwan-ahmed-l7 GitHub Contribution Graph" width="80%" />
+</p>
+
+<p align="center">
+  <em>Contribution squares load hocche video te jevabe 🔥</em>
+</p>
