@@ -55,7 +55,7 @@ Here are some projects that I have recently worked on:
   
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,css,git,github,vscode&perline=5" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,sql,git,github,vscode&perline=5" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
