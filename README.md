@@ -1,21 +1,24 @@
-<h1 align="center"> Hi, I'm Rezwan Ahmed </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=312E81&height=140&section=header&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hi, I'm Rezwan Ahmed</h1>
 
 <p align="center">
-  <strong>An aspirin B.Sc. Engineering in Computer Science & Engineering student</strong><br>
-  From Dhaka, Bangladesh 
-  <br>
-  🌱 Documenting my learning journey while creating resources that may help fellow students.
+  <strong>B.Sc. Engineering Student in Computer Science & Engineering</strong><br>
+  Dhaka, Bangladesh<br>
+  🌱 Learning, building, and documenting my journey in technology.
 </p>
 
 ---
 
 ### About Me
 
-- **Education:** Currently pursuing my **B.Sc. Engineering in CSE**.
-- **Learning:** OOP, DSA, SDP, Git & GitHub.
-- **Working on:** Software Development Projects (SDP).
-- **Looking Forward:** Learning Software Development and expanding my knowledge.
-- **Hobbies:** Music, Photography, Gym, Drawing, Reading, Anime & Open World Games.
+- **Education:** B.Sc. Engineering in Computer Science & Engineering
+- **Learning:** OOP, DSA, DBMS, SDP, Git & GitHub
+- **Working On:** Software Development Projects
+- **Exploring:** Software Development and related technologies
+- **Hobbies:** Music, Photography, Gym, Drawing, Reading, Anime & Open World Games
 
 ---
 
@@ -26,42 +29,34 @@ Here are some projects that I have recently worked on:
 | Project Name | Description | Tech Stack | Link |
 | :---- | :---- | :---- | :---- |
 | **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
+| **Bank Management System** | A modular Python banking system implementing basic account management and banking operations. | `Python` | [View Repo](https://github.com/rezwan-ahmed-l7/Python-Programing/tree/main/Python%20Project) |
 | **Railway Gate System** | A smart railway gate management system. | `C++` `ESP32` | [View Repo](https://github.com/rezwan-ahmed-l7/Smart-Raiway-Gate-System) |
-| **Calculator App** | A fully functional desktop calculator app. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Calculator-App) |
+
 
 ---
 
-### Let's Connect !
+### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0A66C2)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
 
 <p align="center">
-  <strong> If you like my repositories, feel free to follow and leave a ⭐! Thank you </strong><br>
+  <strong>Feel free to explore my repositories and follow my journey.</strong>
 </p>
 
 ---
 
 <div align="center">
- 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=transparent&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,mysql,git,github,vscode&perline=5" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+  <br>
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,mysql,git,github,vscode&perline=10"
+    alt="Skills"
+  />
+  <br><br>
+  <img
+    src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
 
 
 <br>
@@ -72,3 +67,6 @@ Here are some projects that I have recently worked on:
 </picture>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=312E81&height=125&section=footer" />
+</p>
