@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=312E81&height=140&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=312E81&width=100%&height=140&section=header&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi, I'm Rezwan Ahmed</h1>
@@ -20,7 +20,7 @@
 - **Exploring:** Software Development and related technologies
 - **Hobbies:** Music, Photography, Gym, Drawing, Reading, Anime & Open World Games
 
----
+
 
 ### Featured Projects
 
@@ -31,7 +31,6 @@ Here are some projects that I have recently worked on:
 | **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
 | **Bank Management System** | A modular Python banking system implementing basic account management and banking operations. | `Python` | [View Repo](https://github.com/rezwan-ahmed-l7/Python-Programing/tree/main/Python%20Project) |
 | **Railway Gate System** | A smart railway gate management system. | `C++` `ESP32` | [View Repo](https://github.com/rezwan-ahmed-l7/Smart-Raiway-Gate-System) |
-
 
 ---
 
@@ -49,9 +48,14 @@ Here are some projects that I have recently worked on:
   <br>
   <img
     src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,mysql,git,github,vscode&perline=10"
-    alt="Skills"
+    alt="Skills & Tools"
   />
-  <br><br>
+  <br>
+  <h3>Skills & Tools</h3>
+</div>
+
+
+<div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=transparent&hide_border=true"
     alt="GitHub Streak"
@@ -59,14 +63,17 @@ Here are some projects that I have recently worked on:
 </div>
 
 
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-light&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true" />
-</picture>
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</div>
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=312E81&height=125&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=312E81&width=100%&height=125&section=footer"
+    alt="Footer"
+  />
 </p>
