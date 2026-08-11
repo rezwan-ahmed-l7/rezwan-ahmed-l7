@@ -28,7 +28,7 @@ Here are some projects that I have recently worked on:
 
 | Project Name | Description | Tech Stack | Link |
 | :---- | :---- | :---- | :---- |
-| **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwanahmedtorabee-source/Study-Planner-App) |
+| **Study Planner App** | A department-based study planner app for students. | `Java` `JavaFX` | [View Repo](https://github.com/rezwan-ahmed-l7/Study-Planner-App) |
 | **Bank Management System** | A modular Python banking system implementing basic account management and banking operations. | `Python` | [View Repo](https://github.com/rezwan-ahmed-l7/Python-Programing/tree/main/Python%20Project) |
 | **Railway Gate System** | A smart railway gate management system. | `C++` `ESP32` | [View Repo](https://github.com/rezwan-ahmed-l7/Smart-Raiway-Gate-System) |
 
