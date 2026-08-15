@@ -7,7 +7,7 @@
 <p align="center">
   <strong>B.Sc. Engineering Student in Computer Science & Engineering</strong><br>
   Dhaka, Bangladesh<br>
-  🌱 Learning, building, and documenting my journey in technology.
+  🌱 Learning, building, documenting, and growing as I develop my skills in technology.
 </p>
 
 ---
@@ -47,8 +47,13 @@ Here are some projects that I have recently worked on:
 <div align="center">
   <br>
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,mysql,git,github,vscode&perline=10"
+    src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,mysql,postgres,git,github,vscode&perline=12&theme=dark"
     alt="Skills & Tools"
+  />
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=datagrip&theme=dark"
+    height="48"
+    alt="DataGrip"
   />
   <br>
   <h3>Skills & Tools</h3>
