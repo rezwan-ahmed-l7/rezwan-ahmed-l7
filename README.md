@@ -70,7 +70,7 @@ Here are some projects that I have recently worked on:
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true&bg_color=00000000"
     alt="GitHub Activity Graph"
   />
 </div>
