@@ -1,0 +1,43 @@
+name: Update README Assets
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Make assets folder
+        run: mkdir -p assets
+
+      - name: Fetch GitHub Stats card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=rezwan-ahmed-l7&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=3B82F6&icon_color=3B82F6&count_private=true" \
+            -o assets/stats.svg
+
+      - name: Fetch Top Languages card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan-ahmed-l7&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=3B82F6&langs_count=8" \
+            -o assets/top-langs.svg
+
+      - name: Fetch Streak Stats
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=rezwan-ahmed-l7&theme=transparent&hide_border=true" \
+            -o assets/streak.svg
+
+      - name: Fetch Activity Graph
+        run: |
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=rezwan-ahmed-l7&theme=github-dark&hide_border=true&bg_color=00000000" \
+            -o assets/activity-graph.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: refresh README assets" && git push)
