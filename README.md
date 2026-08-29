@@ -51,7 +51,7 @@ Here are some projects that I have recently worked on:
 <div align="center">
   <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,mysql,postgres,git,github,vscode&perline=12&theme=dark" alt="Skills & Tools" />
-  <img src="assets/datagrip.png" height="58" alt="DataGrip" />
+  <img src="assets/datagrip.png" height="48" alt="DataGrip" />
   <br>
   <h3>Skills & Tools</h3>
 </div>
