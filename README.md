@@ -6,7 +6,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/name-light.png">
-    <img alt="Hi, I'm Rezwan Ahmed" src="assets/name-light.png" width="400">
+    <img alt="Hi, I'm Rezwan Ahmed" src="assets/name-light.png" width="450">
   </picture>
 </p>
 
@@ -51,7 +51,7 @@ Here are some projects that I have recently worked on:
 <div align="center">
   <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,maven,html,mysql,postgres,git,github,vscode&perline=12&theme=dark" alt="Skills & Tools" />
-  <img src="assets/datagrip.png" height="48" alt="DataGrip" />
+  <img src="assets/datagrip2.png" height="48" alt="DataGrip" />
   <br>
   <h3>Skills & Tools</h3>
 </div>

@@ -2,8 +2,8 @@ name: Update README Assets
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
-  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch: # lets you trigger it manually from the Actions tab
 
 permissions:
   contents: write
