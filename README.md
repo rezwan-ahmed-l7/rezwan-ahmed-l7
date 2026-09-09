@@ -30,13 +30,12 @@
 
 Here are some projects that I have recently worked on:
 
-| Project Name               | Description                                                                                   | Tech Stack      | Link                                                                                         |
-| :------------------------- | :-------------------------------------------------------------------------------------------- | :-------------- | :------------------------------------------------------------------------------------------- |
-| **Study Planner App**      | A department-based study planner app for students.                                            | `Java` `JavaFX` | [View Repo](https://github.com/rezwan-ahmed-l7/Study-Planner-App)                            |
-| **Bank Management System** | A modular Python banking system implementing basic account management and banking operations. | `Python`        | [View Repo](https://github.com/rezwan-ahmed-l7/Python-Programing/tree/main/Python%20Project) |
-| **Railway Gate System**    | A smart railway gate management system.                                                       | `C++` `ESP32`   | [View Repo](https://github.com/rezwan-ahmed-l7/Smart-Raiway-Gate-System)                     |
-
----
+| Project Name                                                                                                  | Description                                                                                                                                                  | Tech Stack      |
+| :------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
+| **[Smart Home Service](https://github.com/rezwan-ahmed-l7/Smart-Home-Service-Hackathon)**                     | A smart home service automation platform that matches customers with trusted local providers, schedules jobs, tracks service progress, and collects ratings. | `React` `Vite`  |
+| **[Study Planner App](https://github.com/rezwan-ahmed-l7/Study-Planner-App)**                                 | A department-based study planner app designed to help students organize courses, tasks, schedules, and academic activities.                                  | `Java` `JavaFX` |
+| **[Bank Management System](https://github.com/rezwan-ahmed-l7/Python-Programing/tree/main/Python%20Project)** | A modular Python banking system implementing account management, deposits, withdrawals, balance checking, and other basic banking operations.                | `Python`        |
+| **[Railway Gate System](https://github.com/rezwan-ahmed-l7/Smart-Raiway-Gate-System)**                        | A smart railway gate management system designed to automate gate control and improve railway crossing safety using an ESP32-based system.                    | `C++` `ESP32`   |
 
 ### Let's Connect
 
