@@ -40,6 +40,7 @@ Here are some projects that I have recently worked on:
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwan-ahmed-l7/)
+![Profile Views](https://komarev.com/ghpvc/?username=rezwan-ahmed-l7&color=3B82F6&style=flat&label=Profile+Views)
 
 <p align="center">
   <strong>Feel free to explore my repositories and follow my journey.</strong>
