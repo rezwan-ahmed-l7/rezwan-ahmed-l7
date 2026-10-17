@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rezwan Ahmed&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 181, Total Commits  (last year) : 842, Total PRs: 20, Total Issues: 1, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 181, Total Commits  (last year) : 850, Total PRs: 22, Total Issues: 1, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 115.67628883670785;
+        stroke-dashoffset: 114.28518248326824;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >842</text>
+      >850</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >20</text>
+      >22</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
